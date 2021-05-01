@@ -56,6 +56,23 @@ public class LoginAdactin extends Base {
     }
     @Then("user should verify the order id")
     public void user_should_verify_the_order_id() {
+    	
+    	driver.quit();
+    	
+    	
+    	
+    	
+    	
+    	
+    	
+    	
+    	
+    	
+    	
+    	
+    	
+    	
+    	
 	
    }
    }
